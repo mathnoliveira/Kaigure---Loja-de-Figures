@@ -15,7 +15,7 @@ color: #ffffff;
 text-align: center;
 font-weight: normal;}
 
-.caixa-cinza {background-color: #2f3136;
+.caixa-cinza {background-color: #162f57;
 border-radius: 6px;
 padding: 40px 30px;
 min-height: 300px;}
@@ -36,7 +36,7 @@ font-weight: bold;}
 font-size: 1.1;
 padding-left: 30px;}
 
-.bloco-atendimento {background-color: #4f545c;
+.bloco-atendimento {background-color: #0e1e38;
 padding: 20px;
 border-radius: 6px;
 height: 100%;
@@ -55,7 +55,7 @@ gap: 15px;}
 .formulario-contato input,
 .formulario-contato textarea {width: 100%;
 padding: 12px;
-background-color: #23272a;
+background-color: #162f57;
 border: 1px solid #4f545c;
 border-radius: 4px;
 color: #ffffff;
