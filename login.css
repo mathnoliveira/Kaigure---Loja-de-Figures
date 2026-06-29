@@ -1,0 +1,56 @@
+.conteudo-principal {display: grid;
+place-items: center;
+min-height: 60vh;}
+
+.caixa-login {background-color: #2f3136;
+padding: 40px;
+border-radius: 6px;
+width: 100%;
+max-width: 400px;
+display: grid;
+gap: 20px;}
+
+.titulo-login {font-size: 1.8rem;
+color: #ffffff;
+text-align: center;
+margin-bottom: 10px;}
+
+.formulario-login {display: grid;
+gap: 15px;}
+
+.campo-grupo {display: grid;
+gap: 5px;}
+
+.campo-grupo label {color: #b9bbbe;
+font-size: 0.9rem;}
+
+.campo-grupo input {width: 100%;
+padding: 12px;
+background-color: #23272a;
+border: 1px solid #4f545c;
+border-radius: 4px;
+color: #ffffff;
+outline: none;}
+
+.botao-login {background-color: #dd4349;
+color: #ffffff;
+border: none;
+padding: 12px;
+font-size: 1rem;
+font-weight: bold;
+border-radius: 4px;
+cursor: pointer;
+margin-top: 10px;
+transition: background-color 0.2s;}
+
+.botao-login:hover {background-color: #bd3439;}
+
+.texto-cadastro {text-align: center;
+color: #b9bbbe;
+font-size: 0.9rem;}
+
+.texto-cadastro a {color: #dd4349;
+text-decoration: none;
+font-weight: bold;}
+
+.texto-cadastro a:hover {text-decoration: underline;}
